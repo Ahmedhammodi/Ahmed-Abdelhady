@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm 
   Ahmed Abdelhady</h1>
-<h3 align="center">I'm a passionate Fullstack .NET Core Developer with experience in building web applications and APIs. I love solving complex problems and exploring new technologies.</h3>
+<h3 align="center">I'm a passionate Fullstack Odoo Developer with experience in building web applications and APIs. I love solving complex problems and exploring new technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
